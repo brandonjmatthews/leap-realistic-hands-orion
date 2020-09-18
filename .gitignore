@@ -4,6 +4,8 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
+Assets/Plugins/
+Assets/Plugins.meta
 # Captures folder
 
 Assets/LeapMotion/
